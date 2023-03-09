@@ -2,7 +2,7 @@
 
 This repository contains data and code of our article *Spatio-temporal heterogeneity in the international trade resilience during COVID-19*. 
 
-If you are going to use our code or data, please cite our publication (DOI: 10.1016/j.apgeog.2023.102923):
+If you are going to use our code or data, please cite our publication (DOI: [10.1016/j.apgeog.2023.102923](https://doi.org/10.1016/j.apgeog.2023.102923)):
 
 ```bibtex
 @article{LUO2023102923,
@@ -20,6 +20,5 @@ If you are going to use our code or data, please cite our publication (DOI: 10.1
 
 or
 
-```
-Luo, W., He, L., Yang, Z., Zhang, S., Wang, Y., Liu, D., Hu, S., He, L., Xia, J., & Chen, M. (2023). Spatio-temporal heterogeneity in the international trade resilience during COVID-19. Applied Geography, 102923. https://doi.org/10.1016/j.apgeog.2023.102923
-```
+> Luo, W., He, L., Yang, Z., Zhang, S., Wang, Y., Liu, D., Hu, S., He, L., Xia, J., & Chen, M. (2023). Spatio-temporal heterogeneity in the international trade resilience during COVID-19. Applied Geography, 102923. https://doi.org/10.1016/j.apgeog.2023.102923
+
