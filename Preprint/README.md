@@ -8,7 +8,7 @@ If you are going to use our code or data, please cite our publication (DOI: [10.
 @article{LUO2023102923,
     title = {Spatio-temporal heterogeneity in the international trade resilience during COVID-19},
     journal = {Applied Geography},
-    volume = {},
+    volume = {154},
     pages = {102923},
     year = {2023},
     issn = {0143-6228},
